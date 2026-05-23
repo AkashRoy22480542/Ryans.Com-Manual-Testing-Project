@@ -100,7 +100,7 @@ Passed	62
 Failed	29
 Blocked	0
 Not Executed	0
-Execution Time	3.5+ Hours
+Execution Time	5 Hours
 Pass Rate	68.13%
 Fail Rate	31.87%
 🐞 Real Bugs Identified
