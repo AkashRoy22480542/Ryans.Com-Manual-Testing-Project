@@ -159,6 +159,7 @@ https://drive.google.com/file/d/1nZ66_hlZvrOZIFlE7Gl3uo67Yp1LSAZg/view?usp=shari
 🐞 Jira Bug Report
 
 🔗 Bug Report with Jira:
+https://akashroy48054.atlassian.net/jira/software/projects/SL/list?jql=project+%3D+SL+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiMGRlNWEwNzRlMzFhNGJiMDliM2ZmMThkZWZmMDBlNmMiLCJwIjoiaiJ9
 https://drive.google.com/file/d/1QKoYhgMUezX8o810McCqo_YVqqbmlxEv/view?usp=drive_link
 
 ⚙️ Tools & Technologies Used
